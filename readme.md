@@ -1,0 +1,1 @@
+Standard nodejs - express - react application;
